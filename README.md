@@ -135,11 +135,13 @@ The only right, our client's right; a product done right.
 
 ## Page 15
 
-> (Everything is in order)
+### If you're about results, start today
+
+> (Everything in order)
 
 PROPOSING:
 
-Whether you want us to work on your mobile application, website
+Whether you want us to work on your mobile app, website
 strategy, or on digital marketing for you company, rest assured, we
 are all about exceptional results.
 
