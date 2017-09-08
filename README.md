@@ -105,11 +105,15 @@ African Fashion needs African Fashion, the app.
 
 ## Page 14
 
+### The typos
+
 > (1st paragraph) Too many typographic errors.
 
 PROPOSING:
 
 Fix the typos.
+
+### Approaching the end
 
 > (Our approach)
 
@@ -123,17 +127,11 @@ digested problems are broken down into fine-grain absorbable units. We
 use these units to sketch a walking skeleton of the proposed digital
 solution.
 
----
+On the last stage, we quickly ship a working product,
+a platform for our client's feeback but also a platform to help us deliver.
+With each shipment we iterate, each one dressed to suit adjustments by the user and the market.
 
-> Heads up! Work in progress.
-
-We then deliver.
-
-- FedEx, UPS, DHL
-- It’s all in the delivery
-- Just need to package it right.
-
----
+The only right, our client's right; a product done right.
 
 ## Page 15
 
