@@ -1,108 +1,119 @@
-Page 2
-—
+# Profile Review
 
-Noticed:
-*(drives) *(human behavior) and engagement.
+## Page 2
 
-Proposing:
-Focusing on creating solutions that drive (something else) and engagement.
+### (Amazing experience) and engagement.
 
-Noticed:
-*(Our goal businesses) stand out…
+> Focusing on creating solutions that **(drives)** **(human behavior)** and engagement.
 
-Proposing:
-Our goal, businesses that stand out…
+PROPOSING:
 
-Noticed:
-- Our goal (not in bold)
-- Our vision (in bold)
+We focus on creating solutions that **(drive)** **(something else, e.g. amazing experience)** and engagement.
 
-Proposing:
-Nothing really, just asking why?
+### Our goal, business that stand out.
 
+> **(Our goal businesses)** stand out in the digital world using, web strategies, mobile solutions and digital marketing.
 
-Page  3
-—
+PROPOSING:
 
-Noticed:
-… constantly learning about *(new user behaviors) *(and keeping track)
+**(Our goal, businesses)** stand out in the digital world using, web strategies, mobile solutions and digital marketing.
+
+### Our goal regular, our vision bold
+
+> - Our goal   &nbsp;&nbsp;&nbsp; (regular)
+> - Our vision &nbsp;             (bold)
+
+PROPOSING:
+
+Nothing really, **just asking, why?**
+
+## Page  3
+
+> … constantly learning about **(new user behaviors)** **(and keeping track)**
 of the latest trends so that your website doesn’t just show off your
-awesome product, but also learn and *(evolve) to better relate to your
+awesome product, but also learn and **(evolve)** to better relate to your
 customer needs.
 
-Proposing:
+PROPOSING:
+
 … constantly learning about new user behavior and keeping track while
 keeping track of the latest trends so that your website doesn’t just
 show off your awesome product but also evolve to better relate to your
 customers needs.
 
+## Page 7
 
-Page 7
-—
+> “Creativity is intelligence having fun”.
 
-Noticed:
-“Creativity is intelligence having fun”.
+PROPOSING:
 
-Proposing:
 Quote the author.
 
+## Page 8
 
-Page 8
-—
+### Apps are solid and successful
 
-Noticed:
-… your mobile application *(is a solid and successful), We don’t just…
+> … your mobile application **(is a solid and successful)**, We don’t just…
 
-Proposing:
-Complete the first part of the sentence before… “We don’t just”. Example:
+PROPOSING:
+
+Complete the first part of the sentence before… "We don’t just". Example:
 … your mobile application is as successful as it is a solid, well
 crafted piece of art.
 
-Noticed:
-We don’t just build apps…
+## We build stuff
 
-Proposing:
-On its own paragraph. To be treated more like an outro.
+> We don’t just build apps…
 
+PROPOSING:
 
-Page 9
-—
+Own a paragraph.
 
-Noticed:
-BiasharaPlus app enables you to get *(all current product price
-listings) *(for forever products) on your hand, there is no need to
-*(carry along) leaflets for price listings any more…
+Be an owl.
 
-Proposing:
+On its own, see an outro.
+
+## Page 9
+
+### Add an app, BiasharaPlus
+
+> BiasharaPlus app enables you to get **(all current product price
+listings)** **(for forever products)** on your hand, there is no need to
+**(carry along)** leaflets for price listings any more…
+
+PROPOSING:
+
 BiasharaPlus enables you… to get price listings of all current Forever
-(show that it is a trademark) there is no longer a need to carry a
+**(show that it is a trademark)** there is no longer a need to carry a
 long leaflet of price listings. Get it all, straight from your
 smartphone.
 
 
-Page 11
-—
+## Page 11
 
-Noticed:
-We created African Fashion to connect African fashion lovers all over the world…
+### African Fashion connects Africa and Fashion
 
-Proposing:
+> We created African Fashion to connect African fashion lovers all over the world…
+
+PROPOSING:
+
 We created African Fashion to connect Africa and Fashion.
 
 Being listed as 2015 Pivot East Finalist’s is enough proof to us that
 African Fashion needs African Fashion, the app.
 
 
-Page 14
-—
+## Page 14
 
-Noticed:
-(1st paragraph) too many typographic errors.
+> (1st paragraph) Too many typographic errors.
 
-Proposing:
+PROPOSING:
+
 Fix the typos.
 
-Heads up! I was just having fun ahead…
+> (Our approach)
+
+PROPOSING:
 
 Understanding the problem is key. Our hands joined with our customers,
 we open doors to simple and usable digital solutions.
@@ -124,13 +135,12 @@ We then deliver.
 
 ---
 
-Page 15
-—
+## Page 15
 
-Noticed:
-(Everything is in order)
+> (Everything is in order)
 
-Proposing:
+PROPOSING:
+
 Whether you want us to work on your mobile application, website
 strategy, or on digital marketing for you company, rest assured, we
 are all about exceptional results.
