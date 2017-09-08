@@ -10,15 +10,15 @@ PROPOSING:
 
 We focus on creating solutions that **(drive)** **(something else, e.g. amazing experience)** and engagement.
 
-### Our goal, business that stand out.
+### Our goal, businesses that stand out.
 
 > **(Our goal businesses)** stand out in the digital world using, web strategies, mobile solutions and digital marketing.
 
 PROPOSING:
 
-**(Our goal, businesses)** stand out in the digital world using, web strategies, mobile solutions and digital marketing.
+**(Our goal, businesses that)** stand out in the digital world using, web strategies, mobile solutions and digital marketing.
 
-### Our goal regular, our vision bold
+### Our goal regular, our vision bold.
 
 > - Our goal   &nbsp;&nbsp;&nbsp; (regular)
 > - Our vision &nbsp;             (bold)
