@@ -17,6 +17,9 @@ We focus on creating solutions that **(drive)** **(something else, e.g. amazing 
 PROPOSING:
 
 **(Our goal, businesses)** stand out in the digital world using, web strategies, mobile solutions and digital marketing.
+FEEDBACK:
+
+So there was a grammer error in this the sentence was suppose to be " Our goal, **is to help** business stand out....."
 
 ### Our goal regular, our vision bold
 
@@ -133,6 +136,7 @@ With each shipment we iterate, each one dressed to suit adjustments by the user 
 
 The only right, our client's right; a product done right.
 
+**This is a master piece.**
 ## Page 15
 
 ### If you're about results, start today
