@@ -1,4 +1,4 @@
-###### Page 1
+## Page 1
 
 **INTRODUCTION**
 
@@ -16,19 +16,19 @@ We have adapted the human centric design methodology which is divided in three s
 
 **Our vision** is to become an inspirational figure to the digital industry in Africa through the quality of our work and self evident values.
 
-###### Page 2
+## Page 2
 **Website Strategies**
 
 More and more is expected of websites; more information, more interactions and wider reach. We know this and are constantly learning about new user behaviour and keeping track while keeping track of the latest trends so that your website doesn't just show off your awesome product but also evolve to better relate to your customers needs.
 
 ###### Expose more girls in Tanzania to STEAM careers and amplify their impact in Africa and the world at large.
 
-###### Page 7
+## Page 7
 
 ###### ''Creativity is intelligence having fun.''
 
 **-Albert Einstein**
-###### Page 8
+## Page 8
 ###### Mobile Applications
 **ANDROID | iOS | USSD**
 
@@ -36,21 +36,21 @@ We adhere to the highest design principles to ensure that your mobile applicatio
 
 We don't just build apps, we build businesses. The result is a thought-through product that can hit the market harder than your competitors.
 
-###### Page 9
+## Page 9
 **Biashara Plus App**
 
 BiasharaPlus app enables you to get price listings of al current Forever products,there is no need to carry along leaflets for price listings.
 Get it all, straight from your smartphone.
 
-###### Page 10
+## Page 10
 ###### Kura Yangu App
 A mobile opinion poll app for Tanzania general election 2015.
-###### Page 11
+## Page 11
 ###### African Fashion
 We created African Fashion to connect Africa and Fashion.
 
 Being listed as 2015 Pivot East Finalist's is enough proof to us that African Fashion needs African Fashion, the app.
-###### Page 12
+## Page 12
 ###### Sahara Sparks App
 The official Sahara Sparks app was built to help you navigate the conference, whether you're attending in-person or remotely.
 
@@ -59,7 +59,7 @@ The official Sahara Sparks app was built to help you navigate the conference, wh
 ###### STRATEGY | S.E.O | EMAIL MARKETING V| SOCIAL MEDIA | CAMPAIGNS
 Reaching customers is crucial for business growth, and companies large and small are constantly looking for ways to reach new customers while keeping current customers continuously interested. At IPF we focus on making sure customers interested in what you offer find you and stay with you.
 
-###### Page 14
+## Page 14
 ###### OUR APPROACH
 
 __At the agency we have adapted the human centered design approach and it is a thing we live through all stages in any project we do, the process is broken into three simple steps.__
@@ -72,7 +72,7 @@ On the last stage, we quickly ship a working product, a platform for our client'
 With each shipment we iterate, each one dressed to suit adjustments by the user and the market.
 
 *The only right, our client's right; a product done right.*
-###### Page 16
+##Page 16
 ###### LETS GET STARTED
 Whether you want us to work on your mobile app, website strategy, or on digital marketing for your company, rest assured, we are all about exceptional results.
 
