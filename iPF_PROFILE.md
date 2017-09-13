@@ -68,7 +68,7 @@ Understanding the problem is key. Our hands joined with our customers, we open d
 
 Then, we visualize. All insights are churned to ensure that partially digested problems are broken down into fine-grain absorbable units. We use these units to sketch a walking skeleton of the proposed digital solution.
 
-On the last stage, we quickly ship a working product, a platform for our clien's feedback but also a platform to help us deliver.
+On the last stage, we quickly ship a working product, a platform for our client's feedback but also a platform to help us deliver.
 With each shipment we iterate, each one dressed to suit adjustments by the user and the market.
 
 *The only right, our client's right; a product done right.*
